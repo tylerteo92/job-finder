@@ -1,0 +1,21 @@
+[debug] [2021-03-22T17:47:10.331Z] ----------------------------------------------------------------------
+[debug] [2021-03-22T17:47:10.336Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Tyler Teo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-03-22T17:47:10.336Z] CLI Version:   9.6.1
+[debug] [2021-03-22T17:47:10.337Z] Platform:      win32
+[debug] [2021-03-22T17:47:10.337Z] Node Version:  v12.18.3
+[debug] [2021-03-22T17:47:10.339Z] Time:          Tue Mar 23 2021 01:47:10 GMT+0800 (Malaysia Time)
+[debug] [2021-03-22T17:47:10.339Z] ----------------------------------------------------------------------
+[debug] [2021-03-22T17:47:10.340Z] 
+[debug] [2021-03-22T17:47:10.355Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-03-22T17:47:10.357Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\vue-project\job-finder
+
