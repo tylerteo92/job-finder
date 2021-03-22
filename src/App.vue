@@ -1,7 +1,7 @@
 <template>
   <div class="p-4">
     <div class="d-flex justify-content-between">
-      <div class="h4 text-info mb-0 font-weight-bold">Career Finder</div>
+      <div class="h4 text-info mb-0 font-weight-bold">Job Finder</div>
       <el-button type="success" size="medium" @click="createNewJob">Add New Job</el-button>
     </div>
     <el-drawer custom-class="overflow-auto" :visible.sync="openJobForm" size="50%" :destroy-on-close="true" append-to-body>
